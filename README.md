@@ -7,11 +7,6 @@
 
 ---
 
-<p align="center">
-  <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/linasbk?cardType=github" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=linasbk&" />
-</p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=linasbk&show_icons=true&locale=en&theme=radical" alt="linasbk" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=linasbk&theme=radical" alt="luna" /></p>
 
 ---
