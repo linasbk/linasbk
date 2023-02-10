@@ -12,9 +12,7 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=linasbk&" />
 </p>
 
-<p>
-<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linasbk&hide_border=true" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=linasbk&show_icons=true&locale=en&theme=radical" alt="linasbk" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=linasbk&theme=radical" alt="luna" /></p>
 
 ---
 
